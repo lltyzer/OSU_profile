@@ -13,7 +13,7 @@
 [box=遊玩風格 (Play style)][b][size=150]浮板 (hovering)[/size][/b][/box]
 
 [box=Skin][size=150][b]0owo改[/b][/size]
-[size=100]下載連結 (Download Link): https://github.com/lltyzer/OSU_skin/raw/main/-%20%20%20%20%20%20%23%20owo%E6%94%B9.osk[/size]
+[size=100]下載連結 (Download Link): https://is.gd/GakAcT[/size]
 
 [img]https://github.com/lltyzer/OSU_skin/blob/main/pic/skin_1.png?raw=true[/img]
 [img]https://github.com/lltyzer/OSU_skin/blob/main/pic/skin_2.png?raw=true[/img][/box]
